@@ -8,6 +8,8 @@
 <li><b>08.12.21</b> - Выбор темы курсовой работы "Классификация эмоций / представление эмоций"</li>
  <li><b>21.12.21</b> - Начало изучения результатов статьи (<a href="https://github.com/beccohov/mmp_diary/blob/main/Articles/Audio/README.md#current_issue">ссылка на описание</a>) с целью воспроизведения результатов.</li>
  <li><b>24.12.21</b> - Поиск предобученной модели wav2vec и работа по воспроизведению архитектуры, использованной в <a href="https://github.com/beccohov/mmp_diary/blob/main/Articles/Audio/README.md#current_issue">статье</a>. </li>
+ <li><b>02.02.22</b> - Тестирование и обучение реализаций моделей для классификации эмоций с помощью wav2vec2.0. </li>
+ 
  </ul>
  <br>
 
